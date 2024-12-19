@@ -1,0 +1,9 @@
+langchain
+openai
+chromadb
+gradio
+langchain-community
+unstructured
+python-magic-bin
+unstructured[docx]
+tiktoken
