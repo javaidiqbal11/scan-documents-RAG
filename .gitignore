@@ -5,4 +5,4 @@ api_key.json
 vir/
 
 # Ignore all `.gradio` files
-*.gradio
+.gradio/
