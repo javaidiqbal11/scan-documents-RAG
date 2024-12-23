@@ -1,3 +1,4 @@
 # Scan Documents RAG
 
-## Setup 
+### Setup 
+Python 3.12
