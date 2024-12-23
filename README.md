@@ -1,1 +1,3 @@
 # Scan Documents RAG
+
+## Setup 
