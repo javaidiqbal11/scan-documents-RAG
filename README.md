@@ -1,1 +1,1 @@
-# scan-documents-RAG
+# Scan Documents RAG
