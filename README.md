@@ -13,11 +13,29 @@ A comprehensive document scanning and management solution that leverages Retriev
 ## Getting Started
 
 **Prerequisites**
-
 To get started, ensure you have the following installed:
-
 - Python 3.8 or later
-
 - pip (Python package installer)
-
 - Git
+
+## Installation
+1. Clone this repository:
+```shell
+git clone https://github.com/javaidiqbal11/scan-documents-RAG.git
+```
+2. Navigate to the project directory:
+```shell
+cd scan-documents-RAG
+```
+3. Install the required dependencies:
+```shell
+pip install -r requirements.txt
+```
+## Usage
+
+1. Start the application by running:
+```shell
+python app.py
+```
+2. Upload documents through the provided interface or API.
+3. Use the intelligent search feature to retrieve documents based on queries.
