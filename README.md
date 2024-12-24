@@ -47,4 +47,9 @@ python app.py
 - RAG Framework: Combines retrieval techniques with generative models for intelligent search.
 - Database: MongoDB or similar for document storage.
 
-
+## Contributing
+Contributions are welcome! If you’d like to contribute:
+i. Fork the repository.
+ii. Create a new branch for your feature/bug fix.
+iii. Commit your changes and push them to your branch.
+iv. Submit a pull request.
