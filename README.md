@@ -48,12 +48,8 @@ python app.py
 - Database: MongoDB or similar for document storage.
 
 ## Contributing
-Contributions are welcome! If you’d like to contribute:
-
-i. Fork the repository.
-
-ii. Create a new branch for your feature/bug fix.
-
-iii. Commit your changes and push them to your branch.
-
+Contributions are welcome! If you’d like to contribute: <br>
+i. Fork the repository. <br>
+ii. Create a new branch for your feature/bug fix. <br>
+iii. Commit your changes and push them to your branch. <br>
 iv. Submit a pull request.
