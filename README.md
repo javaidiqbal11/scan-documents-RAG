@@ -1,6 +1,6 @@
 # Scan Documents (RAG)
 
-A comprehensive document scanning and management solution that leverages Retrieval-Augmented Generation (RAG) to enhance document retrieval and processing capabilities. This repository is designed to facilitate efficient document digitization, storage, and intelligent retrieval using state-of-the-art AI techniques including RAGs, and LLM.
+The comprehensive document scanning and management solution that leverages Retrieval-Augmented Generation (RAG) to enhance document retrieval and processing capabilities. This repository is designed to facilitate efficient document digitization, storage, and intelligent retrieval using state-of-the-art AI techniques including RAGs, and LLM.
 
 ## Features
 
