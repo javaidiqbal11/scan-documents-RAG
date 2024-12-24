@@ -5,13 +5,9 @@ A comprehensive document scanning and management solution that leverages Retriev
 ## Features
 
 - Document Scanning: Capture high-quality scans of physical documents with minimal setup.
-
 - OCR (Optical Character Recognition): Extract text from scanned images accurately.
-
 - RAG Integration: Employs RAG to provide intelligent and context-aware document search.
-
 - Multi-format Support: Supports PDF, JPEG, PNG, and other common document formats.
-
 - Easy Integration: Can be seamlessly integrated with other applications for extended functionality.
 
 ## Getting Started
