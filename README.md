@@ -39,3 +39,13 @@ python app.py
 ```
 2. Upload documents through the provided interface or API.
 3. Use the intelligent search feature to retrieve documents based on queries.
+
+## Technologies Used
+
+- Python: Core programming language for backend and functionality.
+- FastAPI: Framework for building APIs.
+- OCR Tools: Tesseract or similar libraries for text extraction.
+- RAG Framework: Combines retrieval techniques with generative models for intelligent search.
+- Database: MongoDB or similar for document storage.
+
+
