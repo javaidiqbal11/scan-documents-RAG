@@ -1,11 +1,10 @@
 # Scan Documents (RAG)
 
-A comprehensive document scanning and management solution that leverages Retrieval-Augmented Generation (RAG) to enhance document retrieval and processing capabilities. This repository is designed to facilitate efficient document digitization, storage, and intelligent retrieval using state-of-the-art AI techniques.
+A comprehensive document scanning and management solution that leverages Retrieval-Augmented Generation (RAG) to enhance document retrieval and processing capabilities. This repository is designed to facilitate efficient document digitization, storage, and intelligent retrieval using state-of-the-art AI techniques including RAGs, and LLM.
 
 ## Features
 
 - Document Scanning: Capture high-quality scans of physical documents with minimal setup.
-- OCR (Optical Character Recognition): Extract text from scanned images accurately.
 - RAG Integration: Employs RAG to provide intelligent and context-aware document search.
 - Multi-format Support: Supports PDF, JPEG, PNG, and other common document formats.
 - Easy Integration: Can be seamlessly integrated with other applications for extended functionality.
@@ -44,7 +43,7 @@ python app.py
 
 - Python: Core programming language for backend and functionality.
 - FastAPI: Framework for building APIs.
-- OCR Tools: Tesseract or similar libraries for text extraction.
+- LangCgain: Framework used to build the RAG and LLM integeration. 
 - RAG Framework: Combines retrieval techniques with generative models for intelligent search.
 - Database: MongoDB or similar for document storage.
 
